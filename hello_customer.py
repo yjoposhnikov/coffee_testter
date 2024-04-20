@@ -1,4 +1,4 @@
 def coffee_greeting():
-    return "CUSTOMER HELLO!"
+    return "Moccachino test completed"
 
 print(coffee_greeting())
