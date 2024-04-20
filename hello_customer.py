@@ -1,5 +1,4 @@
 def coffee_greeting():
-    print("CUTOMER HELLO!")
-    # print("coffee cooking is COMPLETED !")
+    return "CUTOMER HELLO!"
 
 coffee_greeting()
