@@ -1,4 +1,4 @@
 def coffee_greeting():
-    return "CUTOMER HELLO!"
+    return "CUSTOMER HELLO!"
 
-coffee_greeting()
+print(coffee_greeting())
